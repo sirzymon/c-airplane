@@ -1,3 +1,5 @@
+//Author: Castañeda, Zymon Prado
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
